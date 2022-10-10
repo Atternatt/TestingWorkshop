@@ -1,7 +1,5 @@
 # Introduction
-Wellcome to the testing workshop for android. In this workshop we are going to learn and practice the frameworks we are going to use in order to unit test our code in Picsart.
-
-This Workshop is mainly set for regular domain business and presentation logic. We can say It's focused on the **social** part of picsart.
+Wellcome to the testing workshop for android. In this workshop we are going to learn and practice the frameworks we are going to use in order to unit test our code.
 
 >:warning: Please read this README file carefuly as it includes all the information, and resources you'll need in order to start worrking on it.
 # Frameworks
@@ -10,7 +8,7 @@ In this section we are going to introduce all the important frameworks and techn
 ## Kotest
 **Kotest**, formerly **Kotlin Test** is a well know testing framework fully implemented in Kotlin. It relies in Junit so it's totally compatible with the current tetsing stack we are used to work with in Android.
 
-We created a [document in confluence](https://picsart.atlassian.net/wiki/spaces/EN/pages/2963866769/Guidelines) in order to learn how to start using it with Guidelines.
+We created a [document](https://m2f.notion.site/Mobile-Testing-8261d69153eb4850b9f848911eb3633c) in order to learn how to start using it with Guidelines.
 
 > Please, before starting the wokrshop take your time to read the documentation.
 ## Arrow
